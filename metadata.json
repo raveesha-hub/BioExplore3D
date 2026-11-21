@@ -1,0 +1,6 @@
+{
+  "name": "BioExplore 3D",
+  "description": "Universal Human & Animal 3D Anatomy Exploration Platform with interactive anatomical systems, exploded views, global species search, and bilingual BioAI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
